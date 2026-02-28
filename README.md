@@ -1,1 +1,1 @@
-# RameshChettiar0806-PalindroneCheckerApp
+# RameshChettiar0806-PalindromeCheckerApp
