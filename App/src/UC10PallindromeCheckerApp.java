@@ -1,5 +1,5 @@
 /**
- * MAIN CLASS - UseCase10PalindromeCheckerApp
+ * MAIN CLASS - UC10PallindromeCheckerApp
  *
  * Use Case 10: Normalized Palindrome Validation
  *
