@@ -19,7 +19,7 @@
  * This use case helps understand how FIFO and LIFO
  * behaviors can be combined for symmetric comparison.
  *
- * @author Ramesh
+ * @author Naethan
  * @version 6.0
  */
 

@@ -17,7 +17,7 @@
  * This use case introduces fundamental comparison logic
  * before using advanced data structures.
  *
- * @author Ramesh
+ * @author Naethan
  * @version 2.0
  */
 public class UC02PalindromeCheckerApp {

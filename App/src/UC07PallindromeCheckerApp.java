@@ -20,7 +20,7 @@
  * This use case demonstrates optimal bidirectional
  * traversal using Deque.
  *
- * @author Ramesh
+ * @author Naethan
  * @version 7.0
  */
 

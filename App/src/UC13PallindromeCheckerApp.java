@@ -20,7 +20,7 @@ import java.util.*;
  * PalindromeStrategy & StackStrategy (UC12)
  * are reused — NOT redefined.
  *
- * @author Ramesh
+ * @author Naethan
  * @version 13.0
  */
 

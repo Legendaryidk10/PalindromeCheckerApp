@@ -16,7 +16,7 @@
  * This use case demonstrates divide-and-conquer
  * logic using method recursion.
  *
- * @author Ramesh
+ * @author Naethan
  * @version 9.0
  */
 import java.util.Scanner;

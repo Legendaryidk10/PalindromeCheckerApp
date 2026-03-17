@@ -15,7 +15,7 @@
  *
  * This maps stack behavior to reversal logic.
  *
- * @author Ramesh
+ * @author Naethan
  * @version 5.0
  */
 

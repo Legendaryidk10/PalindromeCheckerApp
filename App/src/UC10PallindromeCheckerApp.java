@@ -17,7 +17,7 @@
  * Example:
  * "A man a plan a canal Panama"
  *
- * @author Ramesh
+ * @author Naethan
  * @version 10.0
  */
 

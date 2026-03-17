@@ -19,7 +19,7 @@
  *
  * The goal is to teach extensible algorithm design.
  *
- * @author Ramesh
+ * @author Naethan
  * @version 12.0
  */
 
