@@ -17,7 +17,7 @@
  * The goal is to establish a clear startup flow.
  *
  * @author Naethan
- * @version 1.0
+ * @version 1
  */
 public class UC01PallindromeCheckerApp {
 
