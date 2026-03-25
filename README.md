@@ -89,6 +89,3 @@ This is a learning project demonstrating palindrome-checking implementations. Co
 This project is licensed under the LICENSE file included in the repository.
 
 ---
-
-**Author**: Ramesh Chettiar  
-**Last Updated**: January 2025
